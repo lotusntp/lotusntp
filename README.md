@@ -23,5 +23,5 @@
 ### :woman_technologist: About Me :
 My name is Natthaphorn Jaicahaliew from Thailand.
 - :telescope: I'm looking for a backend developer job.
-- - :zap: I have 6 months work experience.
+- :zap: I have 6 months work experience.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.facebook.com/lotus.natthaphorn)
